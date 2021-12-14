@@ -18,5 +18,5 @@ const CONFIG = {
     mess: 'Ok chốt đơn',
     messDesc: 'Cuối tuần thi rồi kìa lo học đi condi yêu đương qq',
     btnAccept: 'clm :))',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100045464897213' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
