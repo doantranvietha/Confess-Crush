@@ -14,7 +14,7 @@ const CONFIG = {
     btnNo: 'Không',
     question: 'Mình bên nhau bao lâu rồi nhỉ???',
     btnReply: 'Yêu nhé???',
-    reply: 'Gần 9 năm rồi',
+    reply: 'Gần 10 năm rồi',
     mess: 'Ok chốt đơn',
     messDesc: 'Cuối tuần thi rồi kìa lo học đi condi yêu đương qq',
     btnAccept: 'clm :))',
